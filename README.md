@@ -8,8 +8,7 @@
 
   [A deployed version can be viewed here.:]
   
-  ()
-  
+Walkthrough Video Here: https://vimeo.com/692923908/6ab609cffc
 ---
 
   # Contents
